@@ -41,16 +41,6 @@ The SurVis page allows filtering by:
 
 ## Key Figures
 
-### Figure 1 — Papers by Publication Year and Evaluation Method
-Generated using Python (Matplotlib) in Google Colab.
-
-![Histogram](figures/figure1_histogram.png)
-
-### Figure 2 — Taxonomy of Research Categories
-Generated using Python (Matplotlib) in Google Colab.
-
-![Taxonomy](figures/figure2_taxonomy.png)
-
 > 📓 Colab notebook: [Open in Google Colab](https://colab.research.google.com/drive/17UL7DIvtqsFNDN5Z_ppl46GtI1H1rIZ6?usp=sharing)
 
 ---
